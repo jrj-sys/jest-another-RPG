@@ -13,7 +13,7 @@ A command line roleplaying game that lets a user fight three enemies. Includes h
 ## Installation
 To install, clone the respository onto your machine. Open a terminal from the root directory.
 ## Usage
-node `app.js in` your terminal.
+`node app.js` in your terminal.
 ## Tests
 The jest framework was used for testing.
 ## Credits
